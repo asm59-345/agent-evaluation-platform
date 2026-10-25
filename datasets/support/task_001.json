@@ -1,0 +1,7 @@
+{
+  "task_id": "task_001",
+  "input": "A customer requests a refund for order ORD-101.",
+  "expected_answer": "Refund request must be verified before approval.",
+  "expected_action": "verify_order",
+  "expected_outcome": "success"
+}
